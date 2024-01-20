@@ -18,3 +18,8 @@ Explore the possibility of introducing a new challenge:
 - Early-completing teams take on an extra project, such as disassembling newer PC sets to analyze differences between old and new models.
   
 This not only adds an exciting layer of challenge but also nurtures curiosity and interest in the subject matter.
+
+# Photo Collage
+
+![Photo 1](https://github.com/Hynanie/PC-ASSEMBLE/assets/148435826/7b903e47-7468-4aee-84b5-0219bacaeb68)
+![Photo 2](https://github.com/Hynanie/PC-ASSEMBLE/assets/148435826/e8fd6c32-ae28-43db-a204-538b67ed508d)
